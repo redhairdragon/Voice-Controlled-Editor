@@ -7,3 +7,9 @@ It uses  voice-text recognition which is built in google chrome and quiljs as ri
 
 It is used for brainstorming further voice command possibility.
 
+
+
+----
+
+I also made an Angular version at the beginning under *angular* folder
+

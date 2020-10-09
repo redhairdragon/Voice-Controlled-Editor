@@ -1,6 +1,5 @@
 # Voice-Controlled-Editor
 ## Demo for HCI group Project Geno ##
-https://youtu.be/gdreOO15JbU
 [![Check out the video :)](https://img.youtube.com/vi/gdreOO15JbU/0.jpg)](https://youtu.be/gdreOO15JbU)
 
 
